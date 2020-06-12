@@ -1,5 +1,5 @@
 
 Geoscience studies in and around Myanmar
 
-[Academic references](references/)
+[Academic references](references.md/)
 
