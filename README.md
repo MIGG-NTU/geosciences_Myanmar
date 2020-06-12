@@ -22,8 +22,15 @@ Receiver function
 
 ### GPS
 
+- Mallick, R., Lindsey, E. O., Feng, L., Hubbard, J., Banerjee, P., & Hill, E. M. ( 2019). Active convergence of the India‐Burma‐Sunda plates revealed by a new continuous GPS network. Journal of Geophysical Research: Solid Earth, 124, 3155– 3171. [link](https://doi.org/10.1029/2018JB016480)
+- Mallick, R., Hubbard, J. A., Lindsey, E. O., Bradley, K. E., Moore, J. D., Ahsan, A., ... & Hill, E. M. (2020). Subduction initiation and the rise of the Shillong Plateau. Earth and Planetary Science Letters, 543, 116351. [link](https://doi.org/10.1016/j.epsl.2020.116351)
+
+
 ### Gravity
 
+- Mukhopadhyay, M., & Dasgupta, S. (1988). Deep structure and tectonics of the Burmese arc: constraints from earthquake and gravity data. Tectonophysics, 149(3-4), 299-322. [link](https://doi.org/10.1016/0040-1951(88)90180-1)
 
 ## Geology
+
+- Wang, Y., Sieh, K., Tun, S. T., Lai, K. Y., & Myint, T. (2014). Active tectonics and earthquake potential of the Myanmar region. Journal of Geophysical Research: Solid Earth, 119(4), 3767-3822. [link](https://doi.org/10.1002/2013JB010762)
 
