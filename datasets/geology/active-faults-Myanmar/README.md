@@ -1,7 +1,7 @@
 
 Active faults in Myanmar from EOS
 
-- [fautls](fautls/): faults dataset
+- [faults](faults/): faults dataset
 - [plot-faults.pl](plot-faults.pl/): perl scripts used to plot the faults
     - [test.png](test.png/) : example figure
 
