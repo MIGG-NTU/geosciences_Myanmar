@@ -1,5 +1,5 @@
 
-## Major faults near Myanmar
+## Active faults in Myanmar
 
 - Faults-all.gmt
     - Note
@@ -83,5 +83,4 @@
 - extract-fault.pl : extract diff types of faults from origin EOS dataset
 - extract-special-fault.pl : extract some special faults
 - extract-special-fault-InBox.pl : extract faults within a box
-
 
