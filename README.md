@@ -1,6 +1,6 @@
 
 Geoscience studies in and around Myanmar
 
-[Academic references](references/index.md)
+- [Academic references](references/index.md)
+- [Datasets](datasets/_index.md)
 
-`More to added: such as some notes about geoscience issues in this region`
