@@ -42,7 +42,6 @@ Geoscience datasets in Myanmar
 ## Geology
 
 - [Active faults in Myanmar](geology/active-faults-Myanmar/)
-
 - Volcanos
 
 
