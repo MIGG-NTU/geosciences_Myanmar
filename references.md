@@ -1,6 +1,11 @@
 
 References of Geoscience studies about Myanmar
 
+## Tectonics
+
+- The tectonics of Myanmar: final report GIAC (Geodynamics of India-Asia Collision) project 1996-1999
+
+
 ## Seismology
 
 ### Seismic source
@@ -15,7 +20,6 @@ Earthquake catalog
 Receiver function
 
 - Zheng, T., He, Y., Ding, L., Jiang, M., Ai, Y., Mon, C. T., ... & Thant, M. (2020). Direct structural evidence of Indian continental subduction beneath Myanmar. Nature Communications, 11(1), 1-9. [link](https://www.nature.com/articles/s41467-020-15746-3)
-
 
 
 ## Geodesy
