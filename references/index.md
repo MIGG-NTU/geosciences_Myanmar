@@ -1,5 +1,10 @@
+---
+title: References of Geoscience studies about Myanmar
+date: 2020-06-14
+author: MIGG
+---
 
-References of Geoscience studies about Myanmar
+References of geoscience studies about Myanmar
 
 ## Tectonics
 
