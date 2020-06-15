@@ -2,8 +2,7 @@
 ## Active faults in Myanmar
 
 - Faults-all.gmt
-    - Note
-        - Original file from EOS
+    - Note: original file from Xin Wang in 2018
     - Faults-only.gmt : locations of all the faults, except megathrusts
     - Megathrust-Arakan.gmt
         - Note
