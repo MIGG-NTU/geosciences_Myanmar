@@ -8,7 +8,7 @@ References of geoscience studies about Myanmar
 
 ## Tectonics
 
-- The tectonics of Myanmar: final report GIAC (Geodynamics of India-Asia Collision) project 1996-1999
+- The tectonics of Myanmar: final report GIAC (Geodynamics of India-Asia Collision) project 1996-1999. (MIGG Google Drive: `resources.MIGG/references`)
 
 
 ## Seismology
