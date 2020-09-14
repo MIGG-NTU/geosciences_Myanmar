@@ -43,3 +43,7 @@ Receiver function
 
 - Wang, Y., Sieh, K., Tun, S. T., Lai, K. Y., & Myint, T. (2014). Active tectonics and earthquake potential of the Myanmar region. Journal of Geophysical Research: Solid Earth, 119(4), 3767-3822. [link](https://doi.org/10.1002/2013JB010762)
 
+
+## Oil
+
+- [缅甸海域M-15区块研究成果研讨会](https://mp.weixin.qq.com/s/RshpDQHB1Xyn6cxgFl8Tlg)
