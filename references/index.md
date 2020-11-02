@@ -44,6 +44,12 @@ Receiver function
 - Wang, Y., Sieh, K., Tun, S. T., Lai, K. Y., & Myint, T. (2014). Active tectonics and earthquake potential of the Myanmar region. Journal of Geophysical Research: Solid Earth, 119(4), 3767-3822. [link](https://doi.org/10.1002/2013JB010762)
 
 
+## Volcanoes
+
+- Licht, A., Win, Z., Westerweel, J., Cogné, N., Morley, C. K., Chantraprasert, S., ... & Dupont-Nivet, G. (2020). Magmatic history of central Myanmar and implications for the evolution of the Burma Terrane. Gondwana Research, 87, 303-319. [link](https://doi.org/10.1016/j.gr.2020.06.016)
+- Zhang, L. Y., Fan, W. M., Ding, L., Ducea, M. N., Pullen, A., & Li, J. X., et al. (2020). Quaternary volcanism in Myanmar: A record of Indian slab tearing in a transition zone from oceanic to continental subduction. Geochemistry, Geophysics, Geosystems, 21, e2020GC009091. [link](https://doi.org/10.1029/2020GC009091)
+
+
 ## Oil
 
 - [缅甸海域M-15区块研究成果研讨会](https://mp.weixin.qq.com/s/RshpDQHB1Xyn6cxgFl8Tlg)
