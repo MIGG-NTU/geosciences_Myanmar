@@ -1,6 +1,9 @@
 References
 ==========
 
+Academic references for geoscience studies in Myanmar.
+
+
 Tectonics
 ---------
 
